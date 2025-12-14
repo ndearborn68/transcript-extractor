@@ -20,6 +20,8 @@ token.pickle
 # Transcripts (don't commit actual transcripts)
 transcripts/
 *.txt
+!requirements.txt
+!example_urls.txt
 
 # IDE
 .vscode/

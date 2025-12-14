@@ -1,0 +1,10 @@
+# Example URLs file
+# Add one URL per line
+# Lines starting with # are ignored
+
+# Calendly URLs
+# https://calendly.com/s/meetings/abc123-def456-ghi789
+
+# Fathom URLs  
+# https://fathom.video/share/xyz789
+
